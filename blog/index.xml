@@ -18,5 +18,16 @@ Now I have a brand new Hugo website with a custom written theme complete with
  A homepage with more social links, and description of my skills An about page with description of who I am A portfolio page to showcase all my projects A blog  Why Hugo? The first question is why a site builder?</description>
     </item>
     
+    <item>
+      <title>Making a new Website</title>
+      <link>https://summit1876.github.io/blog/secondblog/</link>
+      <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://summit1876.github.io/blog/secondblog/</guid>
+      <description>For a long time this website has had a couple of links to contact me, but those days are over.
+Now I have a brand new Hugo website with a custom written theme complete with
+ A homepage with more social links, and description of my skills An about page with description of who I am A portfolio page to showcase all my projects A blog  Why Hugo? The first question is why a site builder?</description>
+    </item>
+    
   </channel>
 </rss>
